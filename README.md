@@ -39,8 +39,8 @@ Upon Signing in as a Officer , the office user can see all the agents, propertie
 
 - Office Buyers :- ![Alt text]( ./pictures/Office-Agents.png "Agents page of office user")
 
-## Contributors
+<!-- ## Contributors
 <a href="https://github.com/manan2110/Real-Estate-Management/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=manan2110/Real-Estate-Management" />
    
-</a>
+</a> -->
